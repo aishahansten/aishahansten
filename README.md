@@ -8,14 +8,11 @@
 |CHUCK CHUCK YAKSA|Web Application for Management on Taking Pills Based on AI Model|12M/M|BE(Spring Boot)&FE(Vue.js)|
 |LOADLOGIX|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆삼성청년SW아카데미 자율프로젝트 최우수상|
 
-<h3 align="center">✨ About Me ✨</h3>
 
-<div>🔭 Open for recruits</div> 
+<h4>🔭 Open for recruits</h4> 
 <div>🔭 IT 개발/기획/컨설팅/전략기획</div> 
 
-<div>👩‍💼 자연과학대학 화학과 2학년 수료 (2018.03.02 - 2020.02.10)
-  <div>- 이수과목 | 유기화학/정량분석화학/환경화학/향장화학/일변수미적분학/다변수미적분학/통계학개론 이하 71학점 취득</div>
-<div>👩‍🎓 정책과학대학 정책학 학사 졸업 (2020.03.02 - 2022.08.18) (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</div>
+<div>👩‍🎓 정책과학대학 정책학 학사 졸업 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</div>
   <div>- 이수과목 | 헌법학/민사법/상법학/행정법학/형법학/거시경제학/미시경제학/국제경제학/비교정치론/논리적사고 누계 137학점 취득 후 졸업</div>
 
 <div>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</div>
