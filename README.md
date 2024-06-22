@@ -1,9 +1,8 @@
-<div align='center'>
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&animation=fadeIn&section=footer&text=Bo%20Kyung%20Kim's%20Github%20Page&fontAlign=70)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faishahansten%2Fhit-counter&count_bg=%23FF6CB6&title_bg=%23BAF4F8&icon=tencentqq.svg&icon_color=%23FF6CB6&title=hits&edge_flat=false)](https://github.com/aishahansten)
-
+<div align='center'>
 <div>
   Hi There! This is the Github Page of Bo Kyung Kim.  
 </div>
