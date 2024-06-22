@@ -1,5 +1,6 @@
-## 김보경의 깃허브입니다
+## 안녕하세요 하루빨리 일을 배우고 싶은 개발자 김보경입니다 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
+---
 ## 👩🏻‍💻IT Programming Projects 
 |PROJECT NAME|SWIFT INTRODUCTION OF THE PROJECT|MAN/MONTH|ROLE AND CERTIFICATION|
 |---|---|---|---|
@@ -9,11 +10,10 @@
 |LOADLOGIX|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆삼성청년SW아카데미 자율프로젝트 최우수상|
 
 
-<h4>🔭 Open for recruits</h4> 
-<div>🔭 IT 개발/기획/컨설팅/전략기획</div> 
+<h4>🔭 Open for recruits - IT 개발/기획/컨설팅 & 컴플라이언스/준법감시/법무부서/ESG/전략기획</h4> 
 
 <div>👩‍🎓 정책과학대학 정책학 학사 졸업 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</div>
-  <div>- 이수과목 | 헌법학/민사법/상법학/행정법학/형법학/거시경제학/미시경제학/국제경제학/비교정치론/논리적사고 누계 137학점 취득 후 졸업</div>
+ 
 
 <div>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</div>
 
