@@ -51,11 +51,11 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp 
 </p>
-<h2 align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faishahansten%2Fhit-counter&count_bg=%23FF6CB6&title_bg=%23BAF4F8&icon=tencentqq.svg&icon_color=%23FF6CB6&title=hits&edge_flat=false)](https://github.com/aishahansten)
-</h2>
+
 <!--
 **aishahansten/aishahansten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
