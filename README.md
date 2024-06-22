@@ -1,7 +1,7 @@
 ## 안녕하세요 하루빨리 일을 배우고 싶은 개발자 김보경입니다 
-<h2 align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
-</h2>
+
 ---
 ## 👩🏻‍💻IT Programming Projects 
 |PROJECT NAME|SWIFT INTRODUCTION OF THE PROJECT|MAN/MONTH|ROLE AND CERTIFICATION|
