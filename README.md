@@ -1,16 +1,14 @@
 ## Hi there 🎀👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-<div>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faishahansten%2Fhit-counter&count_bg=%23FF6CB6&title_bg=%23BAF4F8&icon=tencentqq.svg&icon_color=%23FF6CB6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+<div>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faishahansten%2Fhit-counter&count_bg=%23FF6CB6&title_bg=%23BAF4F8&icon=tencentqq.svg&icon_color=%23FF6CB6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 <div>
   🎀 Hi There! This is the Github Page of Bo Kyung Kim.  
 </div>
 <div>
   🎀 I am currently open for recruits, specifically in fields of IT software development/consulting/planning
 </div>
-<div>
-  🎀 Majored in Policy Studies where we learn PPEL (Philosophy, Politics, Economics, Law) 
-</div>
-
 
 ## 🍯IT Programming Projects 
 |PROJECT NAME|SWIFT INTRODUCTION OF THE PROJECT|MAN/MONTH|ROLE AND CERTIFICATION|
@@ -28,7 +26,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
-
+<div>
+  🎀 Majored in Policy Studies where we learn PPEL (Philosophy, Politics, Economics, Law) 
+</div>
 <!--
 **aishahansten/aishahansten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
