@@ -13,7 +13,6 @@
 <h4>🔭 Open for recruits - IT 개발/기획/컨설팅 & 컴플라이언스/준법감시/법무부서/ESG/전략기획</h4> 
 
 <div>👩‍🎓 정책과학대학 정책학 학사 졸업 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</div>
-  <div>- 이수과목 | 헌법학/민사법/상법학/행정법학/형법학/거시경제학/미시경제학/국제경제학/비교정치론/논리적사고 137학점 취득 후 졸업</div>
 
 <div>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</div>
 
@@ -23,8 +22,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/RobotFramework-000000?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
