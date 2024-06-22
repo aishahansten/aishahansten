@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hi there 👩‍🚀
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=twinkling&section=footer&text=bokyung&fontAlign=70)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faishahansten%2Fhit-counter&count_bg=%23FF6CB6&title_bg=%23BAF4F8&icon=tencentqq.svg&icon_color=%23FF6CB6&title=hits&edge_flat=false)](https://github.com/aishahansten)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
 <div align='center'>
 <div>
-  Hi There! This is the Github Page of Bo Kyung Kim.  
+  This is the Github Page of Bo Kyung Kim.  
 </div>
 <div>
   I am currently open for recruits, specifically in fields of IT software development/consulting/planning
@@ -21,15 +22,15 @@
 ## Technology Stacks
 <img src="https://img.shields.io/badge/spring boot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F"/>
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F"/>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png"></code>
 ## Colaboration Tools
 <img src="https://img.shields.io/badge/Git-#F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-#FC6D26?style=flat-square&logo=gitlab&logoColor=#FC6D26"/>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faishahansten%2Fhit-counter&count_bg=%23FF6CB6&title_bg=%23BAF4F8&icon=tencentqq.svg&icon_color=%23FF6CB6&title=hits&edge_flat=false)](https://github.com/aishahansten)
 <!--
 **aishahansten/aishahansten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
