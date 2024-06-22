@@ -1,15 +1,21 @@
 ## 김보경의 깃허브입니다
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
 <h3 align="center">✨ About Me ✨</h3>
-<div>
-<div>💌 Open for recruits</div> 
-<div>👩🏻‍🚀 reach me ☞ rapsparrow99@naver.com</div> 
-<div>💌 IT 개발/기획/컨설팅/전략기획</div> 
-<div>👩‍💼 화학 2학년 수료 
+
+<div>🔭 Open for recruits</div> 
+<div>🔭 IT 개발/기획/컨설팅/전략기획</div> 
+
+<div>👩‍💼 자연과학대학 화학과 2학년 수료 (2018.03.02 - 2020.02.10)
   <div>- 이수과목 | 유기화학/정량분석화학/환경화학/향장화학/일변수미적분학/다변수미적분학/통계학개론 이하 71학점 취득</div>
-<div>👩‍🎓 정책학 학사 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</div>
+<div>👩‍🎓 정책과학대학 정책학 학사 졸업 (2020.03.02 - 2022.08.18) (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</div>
   <div>- 이수과목 | 헌법학/민사법/상법학/행정법학/형법학/거시경제학/미시경제학/국제경제학/비교정치론/논리적사고 누계 137학점 취득 후 졸업</div>
-<div>⚡ 삼성청년SW아카데미 10기 수료(2023.07 - 2024.07)</div>
-</div>
+<div>👔 Ernst & Young Assurance General 부서 인턴 (2021.12.27 - 2022.02.28)</div>
+<div>👔 Kim & Chang Billing Collection 부서 (2022.08.01 - 2023.04.21)</div>
+<div>⚡ 서울대학교 평생교육원 Tensorflow 개발자과정 수료 (2023.05.23 - 2023.06.02)</div>
+<div>⚡ Microsoft AI School (2023.06 - 중퇴)
+<div>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</div>
+
   
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
@@ -29,8 +35,8 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
 
 
