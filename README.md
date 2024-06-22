@@ -16,41 +16,35 @@
 
 <div>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</div>
 
-  
+<h3 align="center">🛠 Collaboration Tools 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used in my projects </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/RobotFramework-000000?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFD?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
+<h3 align="center">🛠 Editor 🛠</h3>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
-
-
-<div align='center'>
-
-
-
-## Technology Stacks
-<img src="https://img.shields.io/badge/spring boot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F"/>
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F"/>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png"></code>
-## Colaboration Tools
-<img src="https://img.shields.io/badge/Git-#F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-#FC6D26?style=flat-square&logo=gitlab&logoColor=#FC6D26"/>
-</div>
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faishahansten%2Fhit-counter&count_bg=%23FF6CB6&title_bg=%23BAF4F8&icon=tencentqq.svg&icon_color=%23FF6CB6&title=hits&edge_flat=false)](https://github.com/aishahansten)
 <!--
