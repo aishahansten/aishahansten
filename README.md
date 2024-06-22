@@ -1,6 +1,13 @@
 ## 김보경의 깃허브입니다
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
+## 👩🏻‍💻IT Programming Projects 
+|PROJECT NAME|SWIFT INTRODUCTION OF THE PROJECT|MAN/MONTH|ROLE AND CERTIFICATION|
+|---|---|---|---|
+|WONKIDS|Banking Product Education Website for Children|2 M/M|Frontend(Vue.js)&UIUX Web publishing|
+|JOBLOG|Self Management Website for Job Applicants|12 M/M|BE(Spring Boot) Business Logic|
+|CHUCK CHUCK YAKSA|Web Application for Management on Taking Pills Based on AI Model|12M/M|BE(Spring Boot)&FE(Vue.js)|
+|LOADLOGIX|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆삼성청년SW아카데미 자율프로젝트 최우수상|
+
 <h3 align="center">✨ About Me ✨</h3>
 
 <div>🔭 Open for recruits</div> 
@@ -10,10 +17,7 @@
   <div>- 이수과목 | 유기화학/정량분석화학/환경화학/향장화학/일변수미적분학/다변수미적분학/통계학개론 이하 71학점 취득</div>
 <div>👩‍🎓 정책과학대학 정책학 학사 졸업 (2020.03.02 - 2022.08.18) (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</div>
   <div>- 이수과목 | 헌법학/민사법/상법학/행정법학/형법학/거시경제학/미시경제학/국제경제학/비교정치론/논리적사고 누계 137학점 취득 후 졸업</div>
-<div>👔 Ernst & Young Assurance General 부서 인턴 (2021.12.27 - 2022.02.28)</div>
-<div>👔 Kim & Chang Billing Collection 부서 (2022.08.01 - 2023.04.21)</div>
-<div>⚡ 서울대학교 평생교육원 Tensorflow 개발자과정 수료 (2023.05.23 - 2023.06.02)</div>
-<div>⚡ Microsoft AI School (2023.06 - 중퇴)
+
 <div>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</div>
 
   
@@ -36,19 +40,13 @@
 </p>
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
 
 
 <div align='center'>
 
-## 👩🏻‍💻IT Programming Projects 
-|PROJECT NAME|SWIFT INTRODUCTION OF THE PROJECT|MAN/MONTH|ROLE AND CERTIFICATION|
-|---|---|---|---|
-|WONKIDS|Banking Product Education Website for Children|2 M/M|Frontend(Vue.js)&UIUX Web publishing|
-|JOBLOG|Self Management Website for Job Applicants|12 M/M|BE(Spring Boot) Business Logic|
-|CHUCK CHUCK YAKSA|Web Application for Management on Taking Pills Based on AI Model|12M/M|BE(Spring Boot)&FE(Vue.js)|
-|LOADLOGIX|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆삼성청년SW아카데미 자율프로젝트 최우수상|
+
 
 ## Technology Stacks
 <img src="https://img.shields.io/badge/spring boot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F"/>
