@@ -1,16 +1,6 @@
 ## 안녕하세요 하루빨리 일을 배우고 싶은 개발자 김보경입니다 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-</p>
+
 ---
 ## 👩🏻‍💻IT Programming Projects 
 |PROJECT NAME|SWIFT INTRODUCTION OF THE PROJECT|MAN/MONTH|ROLE AND CERTIFICATION|
@@ -23,21 +13,21 @@
 
 <h4>🔭 Open for recruits - IT 개발/기획/컨설팅 & 컴플라이언스/준법감시/법무부서/ESG/전략기획</h4> 
 
-<div>👩‍🎓 정책과학대학 정책학 학사 졸업 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</div>
+<h4>👩‍🎓 정책과학대학 정책학 학사 졸업 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</h4>
 
-<div>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</div>
+<h4>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</h4>
 
 <h3 align="center">🛠 Collaboration Tools 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notiont&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/></a>&nbsp 
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used in my projects </p>
