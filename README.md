@@ -7,19 +7,19 @@
 |WONKIDS|Banking Product Education Website for Children|2 M/M|Frontend(Vue.js)&UIUX Web publishing|
 |JOBLOG|Self Management Website for Job Applicants|12 M/M|BE(Spring Boot) Business Logic|
 |CHUCK CHUCK YAKSA|Web Application for Management on Taking Pills Based on AI Model|12M/M|BE(Spring Boot)&FE(Vue.js)|
-|LOADLOGIX|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆삼성청년SW아카데미 자율프로젝트 최우수상|
+|LOADLOGIX|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆**삼성청년SW아카데미 자율프로젝트 최우수상**|
 
 
 <h4>🔭 Open for recruits - IT 개발/기획/컨설팅 & 컴플라이언스/준법감시/법무부서/ESG/전략기획</h4> 
 
 <div>👩‍🎓 정책과학대학 정책학 학사 졸업 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</div>
- 
+  <div>- 이수과목 | 헌법학/민사법/상법학/행정법학/형법학/거시경제학/미시경제학/국제경제학/비교정치론/논리적사고 137학점 취득 후 졸업</div>
 
 <div>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</div>
 
   
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Techs that I've used in my projects </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
