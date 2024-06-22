@@ -1,14 +1,15 @@
 ## 안녕하세요 하루빨리 일을 배우고 싶은 개발자 김보경입니다 
+<h2 align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
-
+</h2>
 ---
 ## 👩🏻‍💻IT Programming Projects 
 |PROJECT NAME|SWIFT INTRODUCTION OF THE PROJECT|MAN/MONTH|ROLE AND CERTIFICATION|
 |---|---|---|---|
 |WONKIDS|Banking Product Education Website for Children|2 M/M|Frontend(Vue.js)&UIUX Web publishing|
-|JOBLOG|Self Management Website for Job Applicants|12 M/M|BE(Spring Boot) Business Logic|
+|[JOBLOG](https://github.com/aishahansten/joblog)|Self Management Website for Job Applicants|12 M/M|BE(Spring Boot) Business Logic|
 |CHUCK CHUCK YAKSA|Web Application for Management on Taking Pills Based on AI Model|12M/M|BE(Spring Boot)&FE(Vue.js)|
-|LOADLOGIX|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆**삼성청년SW아카데미 자율프로젝트 최우수상**|
+|[LOADLOGIX](https://github.com/aishahansten/loadlogix)|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆**삼성청년SW아카데미 자율프로젝트 최우수상**|
 
 
 <h6>🔭 Open for recruits - IT 개발/기획/컨설팅 & 컴플라이언스/준법감시/법무부서/ESG/전략기획</h6> 
@@ -50,10 +51,11 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp 
 </p>
-
+<h2 align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faishahansten%2Fhit-counter&count_bg=%23FF6CB6&title_bg=%23BAF4F8&icon=tencentqq.svg&icon_color=%23FF6CB6&title=hits&edge_flat=false)](https://github.com/aishahansten)
+</h2>
 <!--
 **aishahansten/aishahansten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
