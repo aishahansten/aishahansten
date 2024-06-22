@@ -11,11 +11,11 @@
 |LOADLOGIX|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆**삼성청년SW아카데미 자율프로젝트 최우수상**|
 
 
-<h4>🔭 Open for recruits - IT 개발/기획/컨설팅 & 컴플라이언스/준법감시/법무부서/ESG/전략기획</h4> 
+<h6>🔭 Open for recruits - IT 개발/기획/컨설팅 & 컴플라이언스/준법감시/법무부서/ESG/전략기획</h6> 
 
-<h4>👩‍🎓 정책과학대학 정책학 학사 졸업 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</h4>
+<h6>👩‍🎓 정책과학대학 정책학 학사 졸업 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</h6>
 
-<h4>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</h4>
+<h6>⚡ 삼성청년SW아카데미 10기 수료(2023.06 - 2024.07)</h6>
 
 <h3 align="center">🛠 Collaboration Tools 🛠</h3>
 <p align="center">
@@ -33,8 +33,11 @@
 <p align="center"> Techs that I've used in my projects </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
   <br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -43,7 +46,10 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 <h3 align="center">🛠 Editor 🛠</h3>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp 
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
 
