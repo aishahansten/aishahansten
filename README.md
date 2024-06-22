@@ -1,14 +1,10 @@
-## Github Page of Bo Kyung Kim 👩‍🚀
-I am currently open for recruits, specifically in fields of IT software development/consulting/planning
+## 김보경의 깃허브입니다
+
+💌 구직중입니다. I am currently open for recruits, specifically in fields of IT software development/consulting/planning
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishahansten&theme=tokyonight&show_icons=true" width="42%" />
-</a>
 
 <div align='center'>
 
@@ -30,7 +26,6 @@ I am currently open for recruits, specifically in fields of IT software developm
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faishahansten%2Fhit-counter&count_bg=%23FF6CB6&title_bg=%23BAF4F8&icon=tencentqq.svg&icon_color=%23FF6CB6&title=hits&edge_flat=false)](https://github.com/aishahansten)
 <!--
 **aishahansten/aishahansten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
