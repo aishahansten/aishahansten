@@ -1,6 +1,28 @@
 ## 김보경의 깃허브입니다
+<h3 align="center">🍨 Me 🍨</h3>
+💌 Open for recruits 👩🏻‍🚀 reach me ☞ rapsparrow99@naver.com 
+💌 IT 개발/기획/컨설팅/전략기획 
+👩‍🎓 정책학 학사 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)
+⚡ 삼성청년SW아카데미 10기 수료(2023.07 - 2024.07)
 
-💌 구직중입니다. I am currently open for recruits, specifically in fields of IT software development/consulting/planning
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center"> Techs that I've used at least once </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/RobotFramework-000000?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFD?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</p>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
@@ -8,7 +30,7 @@
 
 <div align='center'>
 
-## IT Programming Projects 
+## 👩🏻‍💻IT Programming Projects 
 |PROJECT NAME|SWIFT INTRODUCTION OF THE PROJECT|MAN/MONTH|ROLE AND CERTIFICATION|
 |---|---|---|---|
 |WONKIDS|Banking Product Education Website for Children|2 M/M|Frontend(Vue.js)&UIUX Web publishing|
