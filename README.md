@@ -19,18 +19,17 @@
 |LOADLOGIX|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / Samsung 청년 SW Academy 자율프로젝트 최우수상|
 
 ## Technology Stacks
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />
-
+<img src="https://img.shields.io/badge/spring boot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F"/>
 ## Colaboration Tools
 <img src="https://img.shields.io/badge/Git-#F05032?style=flat-square&logo=git&logoColor=white"/>
-## 
+<img src="https://img.shields.io/badge/GitLab-#FC6D26?style=flat-square&logo=gitlab&logoColor=#FC6D26"/>
+</div>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aishahansten)](https://solved.ac/aishahansten/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
-<div>
-  Majored in Policy Studies where we learn PPEL (Philosophy, Politics, Economics, Law) 
-</div>
-</div>
+
 <!--
 **aishahansten/aishahansten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
