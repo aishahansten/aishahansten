@@ -1,6 +1,6 @@
 ## 김보경의 깃허브입니다
-<h3 align="center">🍨 Me 🍨</h3>
-<div align="center">
+<h3 align="center">✨ About Me ✨</h3>
+<div>
 <div>💌 Open for recruits</div> 
 <div>👩🏻‍🚀 reach me ☞ rapsparrow99@naver.com</div> 
 <div>💌 IT 개발/기획/컨설팅/전략기획</div> 
