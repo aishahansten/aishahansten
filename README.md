@@ -2,6 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aishahansten&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **aishahansten/aishahansten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
