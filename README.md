@@ -3,6 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishahansten&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishahansten&show_icons=true&theme=radical)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faishahansten%2Fhit-counter&count_bg=%23FF6CB6&title_bg=%23BAF4F8&icon=tencentqq.svg&icon_color=%23FF6CB6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
