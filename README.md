@@ -6,7 +6,7 @@
 ## 👩🏻‍💻IT Programming Projects 
 |PROJECT NAME|SWIFT INTRODUCTION OF THE PROJECT|MAN/MONTH|ROLE AND CERTIFICATION|
 |---|---|---|---|
-|[WONKIDS](https://github.com/aishahansten/wonkids)|Banking Product Education Website for Children|2 M/M|Frontend(Vue.js)&UIUX Web publishing|
+|[WONKIDS](https://github.com/SW-Wonkids/WONKIDS)|Banking Product Education Website for Children|2 M/M|Frontend(Vue.js)&UIUX Web publishing|
 |[JOBLOG](https://github.com/aishahansten/joblog)|Self Management Website for Job Applicants|12 M/M|BE(Spring Boot) Business Logic|
 |[CHUCK CHUCK YAKSA](https://github.com/MedicineMadeByMother-Mayak/ChukChuk-yaksa)|Web Application for Management on Taking Pills Based on AI Model|12M/M|BE(Spring Boot)&FE(Vue.js)|
 |[LOADLOGIX](https://github.com/SW-LoadLogix/LoadLogix)|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆**삼성청년SW아카데미 자율프로젝트 최우수상**|
