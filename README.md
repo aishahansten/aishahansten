@@ -12,7 +12,6 @@
 |[LOADLOGIX](https://github.com/SW-LoadLogix/LoadLogix)|Logistics Management website for Deliveryman based on Algorithm and Simulation|14 M/M|Frontend Lead / 🏆**삼성청년SW아카데미 자율프로젝트 최우수상**|
 
 
-<h6>🔭 Open for recruits - IT 개발/기획/컨설팅 & 컴플라이언스/준법감시/법무부서/ESG/전략기획</h6> 
 
 <h6>👩‍🎓 정책과학대학 정책학 학사 졸업 (PPEL 교육과정 이수 - 철학/정치학/경제학/법학 종합 교육과정)</h6>
 
